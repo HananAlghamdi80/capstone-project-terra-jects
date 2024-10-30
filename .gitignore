@@ -1,0 +1,7 @@
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+hananKey.pem
